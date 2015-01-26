@@ -1,1 +1,1 @@
-# homebrew_sshpass Formula
+# homebrew sshpass Formula
